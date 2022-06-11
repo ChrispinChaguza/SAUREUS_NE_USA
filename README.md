@@ -23,6 +23,7 @@ Unitig presence and absence | Unitigs_ALL.T.tar.gz | Unitigs present in 5-95% is
 Gene presence and absence | pan_genome_reference_R.tar.gz | All gene sequences
 SNPs | SNP.tar.gz | All SNPs
 Unitig sequences | UNITIGS.tar.gz | All unitig sequences
+Prophage sequences | Prophage_sequences_from_denovo_assemblies.tar.gz | Prophage sequences extracted from de novo assemblies
 
 ## Scripts used to annotate SNPs and unitig sequences
 Script name | Description
