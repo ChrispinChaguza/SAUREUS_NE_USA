@@ -30,3 +30,6 @@ Script name | Description
 -- | -- 
 annotate_SNPs.py | Generates a summary of gene features in a reference genome given SNP position
 blast_annotate_fasta.py | Generates a summary of genetic features in GenBank-formatted reference genome(s) associated with given unitig sequences
+
+## Reference
+Chrispin Chaguza, Joshua T. Smith, Spencer A. Bruce, Robert Gibson, Isabella W. Martin, and Cheryl P. Andam. Prophage-encoded immune evasion factors are critical for Staphylococcus aureus human and animal host infection, switching and adaptation. Under review.
