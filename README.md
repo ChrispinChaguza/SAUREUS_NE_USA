@@ -1,4 +1,4 @@
-### Data associated with paper "Prophage-encoded immune evasion factors are critical for Staphylococcus aureus human and animal host infection, switching and adaptation"
+### Data associated with paper "Prophage-encoded immune evasion factors are critical for Staphylococcus aureus host infection, switching and adaptation"
 
 ## Output files from the GWAS analysis using FaST-LMM
 FaST-LMM output filename | Genetic variant type | Phenotype | Phenotype type
@@ -32,4 +32,4 @@ annotate_SNPs.py | Generates a summary of gene features in a reference genome gi
 blast_annotate_fasta.py | Generates a summary of genetic features in GenBank-formatted reference genome(s) associated with given unitig sequences
 
 ## Reference
-Chrispin Chaguza, Joshua T. Smith, Spencer A. Bruce, Robert Gibson, Isabella W. Martin, and Cheryl P. Andam. ***Prophage-encoded immune evasion factors are critical for Staphylococcus aureus human and animal host infection, switching and adaptation***. Under review.
+Chrispin Chaguza, Joshua T. Smith, Spencer A. Bruce, Robert Gibson, Isabella W. Martin, and Cheryl P. Andam. ***Prophage-encoded immune evasion factors are critical for Staphylococcus aureus host infection, switching and adaptation***. Under review.
